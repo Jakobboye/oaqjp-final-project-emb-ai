@@ -1,1 +1,1 @@
-from . import emotion_detectiondomdomdomomdodmdmomdomwadsEmotion
+from . import emotion_detection
